@@ -178,6 +178,11 @@ header ul li a.active{
     color: #8a2435;
 }
 
+.copyright a {
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
 @media (max-width: 1200px){
     .container{
         position: relative;
